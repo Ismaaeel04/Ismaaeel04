@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ismael 👋
 
-<!--
-**Ismaaeel04/Ismaaeel04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-year Software Development student at South East Technological University (SETU), Carlow, Ireland
+💻 Strong foundation in Java, object-oriented design, and database integration
 
-Here are some ideas to get you started:
+## 🛠️ Technical Skills
+**Languages:** C, Java, JavaScript, PHP, CSS, HTML, MySQL, Assembly (68K, x86)
+**AI & Data Tools:** GitHub Copilot
+**Tools & Technologies:** Git
+**Other:** Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Relevant Coursework
+Data Structures & Algorithms · Web Programming & Databases · Object-Oriented Software Development · Systems Analysis and Testing
+
+- 📍 Carlow, Ireland
+
