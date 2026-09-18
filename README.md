@@ -5,8 +5,11 @@
 
 ## 🛠️ Technical Skills
 **Languages:** C, Java, JavaScript, PHP, CSS, HTML, MySQL, Assembly (68K, x86)
+<br>
 **AI & Data Tools:** GitHub Copilot
+<br>
 **Tools & Technologies:** Git
+<br>
 **Other:** Linux
 
 ## 📚 Relevant Coursework
