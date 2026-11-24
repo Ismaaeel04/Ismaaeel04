@@ -9,6 +9,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ismaeelcm"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="https://leetcode.com/u/Ismaeel04_/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
 </p>
 
 <h3 align="center">Tech</h3>
